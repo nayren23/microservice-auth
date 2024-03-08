@@ -1,8 +1,6 @@
 package com.example.springauth.service;
 
-
 import org.springframework.stereotype.Service;
-
 import java.util.Base64;
 
 @Service
