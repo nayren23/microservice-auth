@@ -13,7 +13,7 @@ import java.util.Base64;
 public class AuthController {
 
     @PostMapping("/login")
-    public String authentification(HttpServletRequest request) {
+    public String authentication(HttpServletRequest request) {
         String username = null;
         String password = null;
 
